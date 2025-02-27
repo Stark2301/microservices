@@ -1,0 +1,6 @@
+/home/ctp/Downloads/userservice/src/main/java/com/example/userservice/UserserviceApplication.java
+/home/ctp/Downloads/userservice/src/main/java/com/example/userservice/controller/UserController.java
+/home/ctp/Downloads/userservice/src/main/java/com/example/userservice/model/User.java
+/home/ctp/Downloads/userservice/src/main/java/com/example/userservice/repository/UserRepository.java
+/home/ctp/Downloads/userservice/src/main/java/com/example/userservice/service/Impl/UserServiceImpl.java
+/home/ctp/Downloads/userservice/src/main/java/com/example/userservice/service/UserService.java
