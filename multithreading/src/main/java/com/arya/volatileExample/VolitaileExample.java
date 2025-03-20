@@ -2,7 +2,7 @@ package com.arya.volatileExample;
 
 class SharedObj{
 
-    private volatile boolean flag = false;
+        private volatile boolean flag = false;
 
     public void setFlagTrue(){
         System.out.println("Flag is set to true");

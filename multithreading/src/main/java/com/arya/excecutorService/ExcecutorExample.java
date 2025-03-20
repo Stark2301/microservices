@@ -43,7 +43,7 @@ public class ExcecutorExample {
                 new PrintJobs("chandan"),
         };
 
-        ExecutorService executorService = Executors.newFixedThreadPool(5);
+        ExecutorService executorService = Executors.newFixedThreadPool(2);
         for (PrintJobs printJobs : jobs) {
             executorService.submit(printJobs);
         }
